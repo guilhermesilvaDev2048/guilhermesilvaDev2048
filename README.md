@@ -3,6 +3,7 @@
 Tenho 1 ano e meio com experiência de Desenvolvimento Web, Atuo na areá de Freelancer Frontend, gosto muito de trabalhar em equipe, e sou totalmente focado na responsividade dos meus projetos.
 
 💬 Contate-me no email: guilhermedasilvalima.1304@gmail.com
+🌱 Portfólio: https://portfolio-nine-woad-59.vercel.app
 
 ##
 
